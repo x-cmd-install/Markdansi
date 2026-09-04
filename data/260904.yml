@@ -7,7 +7,7 @@ about:
   head: f2c5147
   archived: false
   latestVersion: v0.3.3
-  collectedAt: 2026-09-04T19:21:28Z
+  collectedAt: 2026-09-04T21:12:44Z
 timeline:
   created: 2025-11-16
   lastCommit: 2026-09-04
@@ -80,5 +80,33 @@ total:
   openIssue: 0
   commit: 146
 ---
+path: /home/runner/.x-repo/github.com/steipete/Markdansi
+collectedAt: 2026-09-04T21:12:44Z
+loc:
+  TypeScript:
+    code: 2763
+    comments: 89
+    blanks: 206
+    files: 15
+  Yaml:
+    code: 1570
+    comments: 0
+    blanks: 394
+    files: 2
+  Json:
+    code: 97
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 399
+    blanks: 154
+    files: 7
+total:
+  code: 4430
+  comments: 488
+  blanks: 754
+  files: 26
 ---
 
