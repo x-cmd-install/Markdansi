@@ -4,7 +4,7 @@
 
 Markdown to ANSII in TypeScript based on Micro-Mark, with support for URLs, tables, lists and more.
 
-![Markdansi](https://repo.x-cmd.io/Markdansi.svg)
+![Markdansi](https://repo.x-cmd.io/Markdansi.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,14 @@ x install Markdansi
 - **最新版本**: `v0.3.3` (2026-08-03)
 - **最近提交**: 2026-09-04
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-08-03T03:11:16Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [markdansi-0.3.3.tgz](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz) | 22.2 KiB | `native/unknown` |
+| [markdansi-0.3.3.tgz.sha1](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha1) | 62 B | `other` |
+| [markdansi-0.3.3.tgz.sha256](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha256) | 86 B | `other` |
 
 ## 流行度
 
@@ -61,4 +68,4 @@ Markdansi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:03:03Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:55:52Z._

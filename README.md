@@ -23,7 +23,14 @@ x install Markdansi
 - **Latest**: `v0.3.3` (2026-08-03)
 - **Last commit**: 2026-09-04
 - **Assets in release**: 3
-- **Published**: 2026-08-03T03:11:16Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [markdansi-0.3.3.tgz](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz) | 22.2 KiB | `native/unknown` |
+| [markdansi-0.3.3.tgz.sha1](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha1) | 62 B | `other` |
+| [markdansi-0.3.3.tgz.sha256](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha256) | 86 B | `other` |
 
 ## Popularity
 
@@ -57,8 +64,8 @@ Total: **4,430** lines of code across **26** files in the top 5 languages.
 Install metadata for Markdansi lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `Markdansi` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/Markdansi.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/Markdansi.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:03:03Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:55:52Z._
