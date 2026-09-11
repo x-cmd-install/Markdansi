@@ -12,6 +12,17 @@ Markdown to ANSII in TypeScript based on Micro-Mark, with support for URLs, tabl
 x install Markdansi
 ```
 
+## 代码洞察
+
+合计: **4,430** 行代码（覆盖前 5 种语言、共 **26** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| TypeScript | 2,763 | 89 | 206 | 15 |
+| Yaml | 1,570 | 0 | 394 | 2 |
+| Json | 97 | 0 | 0 | 2 |
+| Markdown | 0 | 399 | 154 | 7 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/steipete/Markdansi>
@@ -23,14 +34,6 @@ x install Markdansi
 - **最新版本**: `v0.3.3` (2026-08-03)
 - **最近提交**: 2026-09-04
 - **Release 含资产**: 3 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [markdansi-0.3.3.tgz](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz) | 22.2 KiB | `native/unknown` |
-| [markdansi-0.3.3.tgz.sha1](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha1) | 62 B | `other` |
-| [markdansi-0.3.3.tgz.sha256](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha256) | 86 B | `other` |
 
 ## 流行度
 
@@ -44,20 +47,20 @@ x install Markdansi
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 2 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-12 | 2 | 12 | 0 | 0 | 0 | 18 |
-| 360d | 2025-09-15 | 14 | 14 | 0 | 1 | 0 | 145 |
+| 30d | 2026-08-12 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-13 | 1 | 6 | 0 | 0 | 0 | 6 |
+| 90d | 2026-06-13 | 2 | 12 | 0 | 0 | 0 | 18 |
+| last180d | 2026-03-15 | 4 | 14 | 0 | 0 | 0 | 30 |
+| 360d | 2025-09-16 | 14 | 14 | 0 | 1 | 0 | 145 |
+| last720d | 2024-09-21 | 14 | 14 | 0 | 1 | 0 | 146 |
 
-## 代码规模
+## Release 资产
 
-合计: **4,430** 行代码（覆盖前 5 种语言、共 **26** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| TypeScript | 2,763 | 89 | 206 | 15 |
-| Yaml | 1,570 | 0 | 394 | 2 |
-| Json | 97 | 0 | 0 | 2 |
-| Markdown | 0 | 399 | 154 | 7 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [markdansi-0.3.3.tgz](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz) | 22.2 KiB | `native/unknown` |
+| [markdansi-0.3.3.tgz.sha1](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha1) | 62 B | `other` |
+| [markdansi-0.3.3.tgz.sha256](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha256) | 86 B | `other` |
 
 ## 改进这些数据
 
@@ -68,4 +71,4 @@ Markdansi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:55:52Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:03:47Z._

@@ -12,6 +12,17 @@ Markdown to ANSII in TypeScript based on Micro-Mark, with support for URLs, tabl
 x install Markdansi
 ```
 
+## Code insight
+
+Total: **4,430** lines of code across **26** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 2,763 | 89 | 206 | 15 |
+| Yaml | 1,570 | 0 | 394 | 2 |
+| Json | 97 | 0 | 0 | 2 |
+| Markdown | 0 | 399 | 154 | 7 |
+
 ## Source
 
 - **Upstream**: <https://github.com/steipete/Markdansi>
@@ -23,14 +34,6 @@ x install Markdansi
 - **Latest**: `v0.3.3` (2026-08-03)
 - **Last commit**: 2026-09-04
 - **Assets in release**: 3
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [markdansi-0.3.3.tgz](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz) | 22.2 KiB | `native/unknown` |
-| [markdansi-0.3.3.tgz.sha1](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha1) | 62 B | `other` |
-| [markdansi-0.3.3.tgz.sha256](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha256) | 86 B | `other` |
 
 ## Popularity
 
@@ -44,20 +47,20 @@ x install Markdansi
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 2 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-12 | 2 | 12 | 0 | 0 | 0 | 18 |
-| 360d | 2025-09-15 | 14 | 14 | 0 | 1 | 0 | 145 |
+| 30d | 2026-08-12 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-13 | 1 | 6 | 0 | 0 | 0 | 6 |
+| 90d | 2026-06-13 | 2 | 12 | 0 | 0 | 0 | 18 |
+| last180d | 2026-03-15 | 4 | 14 | 0 | 0 | 0 | 30 |
+| 360d | 2025-09-16 | 14 | 14 | 0 | 1 | 0 | 145 |
+| last720d | 2024-09-21 | 14 | 14 | 0 | 1 | 0 | 146 |
 
-## Code size
+## Release assets
 
-Total: **4,430** lines of code across **26** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 2,763 | 89 | 206 | 15 |
-| Yaml | 1,570 | 0 | 394 | 2 |
-| Json | 97 | 0 | 0 | 2 |
-| Markdown | 0 | 399 | 154 | 7 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [markdansi-0.3.3.tgz](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz) | 22.2 KiB | `native/unknown` |
+| [markdansi-0.3.3.tgz.sha1](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha1) | 62 B | `other` |
+| [markdansi-0.3.3.tgz.sha256](https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha256) | 86 B | `other` |
 
 ## Improve this data
 
@@ -68,4 +71,4 @@ Install metadata for Markdansi lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:55:52Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:03:46Z._
