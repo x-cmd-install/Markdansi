@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 22739,
       "digest": "sha256:7e7835cf1f4fef616f353e89ec62841bad852dac0107380fe6d7fc45ecff99e4",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-03T03:11:15Z",
       "updated_at": "2026-08-03T03:11:16Z",
       "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz"
