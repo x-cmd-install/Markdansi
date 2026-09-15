@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/steipete/Markdansi/releases/363968417",
-  "assets_url": "https://api.github.com/repos/steipete/Markdansi/releases/363968417/assets",
-  "upload_url": "https://uploads.github.com/repos/steipete/Markdansi/releases/363968417/assets{?name,label}",
-  "html_url": "https://github.com/steipete/Markdansi/releases/tag/v0.3.3",
-  "id": 363968417,
+  "url": "https://api.github.com/repos/steipete/Markdansi/releases/388187984",
+  "assets_url": "https://api.github.com/repos/steipete/Markdansi/releases/388187984/assets",
+  "upload_url": "https://uploads.github.com/repos/steipete/Markdansi/releases/388187984/assets{?name,label}",
+  "html_url": "https://github.com/steipete/Markdansi/releases/tag/v0.3.4",
+  "id": 388187984,
   "author": {
     "login": "steipete",
     "id": 58493,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOQW_Yg84Vsbeh",
-  "tag_name": "v0.3.3",
+  "node_id": "RE_kwDOQW_Yg84XI0dQ",
+  "tag_name": "v0.3.4",
   "target_commitish": "main",
-  "name": "Markdansi 0.3.3",
+  "name": "Markdansi 0.3.4",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-08-03T03:09:46Z",
-  "updated_at": "2026-08-03T03:11:26Z",
-  "published_at": "2026-08-03T03:11:16Z",
+  "created_at": "2026-09-14T06:32:14Z",
+  "updated_at": "2026-09-14T06:36:00Z",
+  "published_at": "2026-09-14T06:36:00Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/steipete/Markdansi/releases/assets/499541836",
-      "id": 499541836,
-      "node_id": "RA_kwDOQW_Yg84dxmdM",
-      "name": "markdansi-0.3.3.tgz",
+      "url": "https://api.github.com/repos/steipete/Markdansi/releases/assets/562767578",
+      "id": 562767578,
+      "node_id": "RA_kwDOQW_Yg84hiyba",
+      "name": "markdansi-0.3.4.tgz",
       "label": "",
       "uploader": {
         "login": "steipete",
@@ -65,18 +65,18 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 22739,
-      "digest": "sha256:7e7835cf1f4fef616f353e89ec62841bad852dac0107380fe6d7fc45ecff99e4",
-      "download_count": 4,
-      "created_at": "2026-08-03T03:11:15Z",
-      "updated_at": "2026-08-03T03:11:16Z",
-      "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz"
+      "size": 22785,
+      "digest": "sha256:06211cbaf56c38468299c07a83aed8113eb38d3b9d7030321696e7a28e7503e9",
+      "download_count": 1,
+      "created_at": "2026-09-14T06:36:00Z",
+      "updated_at": "2026-09-14T06:36:00Z",
+      "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.4/markdansi-0.3.4.tgz"
     },
     {
-      "url": "https://api.github.com/repos/steipete/Markdansi/releases/assets/499541978",
-      "id": 499541978,
-      "node_id": "RA_kwDOQW_Yg84dxmfa",
-      "name": "markdansi-0.3.3.tgz.sha1",
+      "url": "https://api.github.com/repos/steipete/Markdansi/releases/assets/562767580",
+      "id": 562767580,
+      "node_id": "RA_kwDOQW_Yg84hiybc",
+      "name": "markdansi-0.3.4.tgz.sha1",
       "label": "",
       "uploader": {
         "login": "steipete",
@@ -102,17 +102,17 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 62,
-      "digest": "sha256:17a818f3351225837ff86cc58f76171c285dba467d235eeb626744bdfb355c20",
-      "download_count": 3,
-      "created_at": "2026-08-03T03:11:25Z",
-      "updated_at": "2026-08-03T03:11:26Z",
-      "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha1"
+      "digest": "sha256:6b9e69a673431047678b289f08fa22d193a4ed79e2511b1028bcd92432fec479",
+      "download_count": 1,
+      "created_at": "2026-09-14T06:36:00Z",
+      "updated_at": "2026-09-14T06:36:00Z",
+      "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.4/markdansi-0.3.4.tgz.sha1"
     },
     {
-      "url": "https://api.github.com/repos/steipete/Markdansi/releases/assets/499541979",
-      "id": 499541979,
-      "node_id": "RA_kwDOQW_Yg84dxmfb",
-      "name": "markdansi-0.3.3.tgz.sha256",
+      "url": "https://api.github.com/repos/steipete/Markdansi/releases/assets/562767583",
+      "id": 562767583,
+      "node_id": "RA_kwDOQW_Yg84hiybf",
+      "name": "markdansi-0.3.4.tgz.sha256",
       "label": "",
       "uploader": {
         "login": "steipete",
@@ -138,14 +138,14 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 86,
-      "digest": "sha256:91a1c32af92c7287a19221423f53b66d67b59633fc64e81053307c81c5030603",
-      "download_count": 3,
-      "created_at": "2026-08-03T03:11:25Z",
-      "updated_at": "2026-08-03T03:11:26Z",
-      "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.3/markdansi-0.3.3.tgz.sha256"
+      "digest": "sha256:1745acc7f90ad6c6cfa74679cd59c8db8f48c298222a086d72765ef121ac59e0",
+      "download_count": 1,
+      "created_at": "2026-09-14T06:36:00Z",
+      "updated_at": "2026-09-14T06:36:00Z",
+      "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.4/markdansi-0.3.4.tgz.sha256"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/steipete/Markdansi/tarball/v0.3.3",
-  "zipball_url": "https://api.github.com/repos/steipete/Markdansi/zipball/v0.3.3",
-  "body": "## 0.3.3 (2026-08-02)\n\n- Dependencies: update Chalk 6, Marked, string-width, and build tooling, including current PostCSS security fixes.\n- Themes: apply named, hex, and ANSI-256 foreground/background colors, fixing Solarized block code styling.\n- CLI: restore support for the `solarized`, `monochrome`, and `contrast` built-in themes.\n"
+  "tarball_url": "https://api.github.com/repos/steipete/Markdansi/tarball/v0.3.4",
+  "zipball_url": "https://api.github.com/repos/steipete/Markdansi/zipball/v0.3.4",
+  "body": "## 0.3.4 (2026-09-13)\n\n- Dependencies: update Marked for fixes to nested links, emphasis, and blockquote parsing.\n- Development: refresh pnpm, Node.js types, and Oxc linting/formatting tools.\n\nPackage: [markdansi@0.3.4](https://www.npmjs.com/package/markdansi/v/0.3.4) · [Registry tarball](https://registry.npmjs.org/markdansi/-/markdansi-0.3.4.tgz)\n\nIntegrity: `sha512-sl1WzWqtQZ5REdYo5Mwp8Rj4S0iPONVxXIWIhQTru9k462131YP1UDSCa2QqQG617onHdUIutwXaZMrq/CP8tw==`\n\nValidation: [release commit CI](https://github.com/steipete/Markdansi/actions/runs/34813884966); full local build and 109 passing tests.\n"
 }
