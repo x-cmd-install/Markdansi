@@ -21,7 +21,7 @@ Total: **4,400** lines of code across **26** files in the top 5 languages.
 | TypeScript | 2,826 | 90 | 225 | 15 |
 | Yaml | 1,477 | 0 | 362 | 2 |
 | Json | 97 | 0 | 0 | 2 |
-| Markdown | 0 | 410 | 156 | 7 |
+| Markdown | 0 | 404 | 167 | 7 |
 
 ## Source
 
@@ -31,8 +31,8 @@ Total: **4,400** lines of code across **26** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.3.4` (2026-09-14)
-- **Last commit**: 2026-10-10
+- **Latest**: `v0.3.5` (2026-10-11)
+- **Last commit**: 2026-10-12
 - **Assets in release**: 3
 
 ## Popularity
@@ -41,26 +41,26 @@ Total: **4,400** lines of code across **26** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 154
+- **Releases**: 16 · **Merged PRs**: 24 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 156
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 1 | 8 | 0 | 0 | 0 | 8 |
-| last60d | 2026-08-12 | 1 | 10 | 0 | 0 | 0 | 10 |
-| 90d | 2026-07-13 | 2 | 14 | 0 | 0 | 0 | 14 |
-| last180d | 2026-04-14 | 5 | 21 | 0 | 0 | 0 | 38 |
-| 360d | 2025-10-16 | 15 | 22 | 0 | 1 | 0 | 153 |
-| last720d | 2024-10-21 | 15 | 22 | 0 | 1 | 0 | 154 |
+| 30d | 2026-09-12 | 2 | 10 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-13 | 2 | 12 | 0 | 0 | 0 | 12 |
+| 90d | 2026-07-14 | 3 | 16 | 0 | 0 | 0 | 16 |
+| last180d | 2026-04-15 | 6 | 23 | 0 | 0 | 0 | 40 |
+| 360d | 2025-10-17 | 16 | 24 | 0 | 1 | 0 | 155 |
+| last720d | 2024-10-22 | 16 | 24 | 0 | 1 | 0 | 156 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [markdansi-0.3.4.tgz](https://github.com/steipete/Markdansi/releases/download/v0.3.4/markdansi-0.3.4.tgz) | 22.3 KiB | `native/unknown` |
-| [markdansi-0.3.4.tgz.sha1](https://github.com/steipete/Markdansi/releases/download/v0.3.4/markdansi-0.3.4.tgz.sha1) | 62 B | `other` |
-| [markdansi-0.3.4.tgz.sha256](https://github.com/steipete/Markdansi/releases/download/v0.3.4/markdansi-0.3.4.tgz.sha256) | 86 B | `other` |
+| [markdansi-0.3.5.tgz](https://github.com/steipete/Markdansi/releases/download/v0.3.5/markdansi-0.3.5.tgz) | 22.1 KiB | `native/unknown` |
+| [markdansi-0.3.5.tgz.sha1](https://github.com/steipete/Markdansi/releases/download/v0.3.5/markdansi-0.3.5.tgz.sha1) | 62 B | `other` |
+| [markdansi-0.3.5.tgz.sha256](https://github.com/steipete/Markdansi/releases/download/v0.3.5/markdansi-0.3.5.tgz.sha256) | 86 B | `other` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for Markdansi lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:09:09Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:17:47Z._
