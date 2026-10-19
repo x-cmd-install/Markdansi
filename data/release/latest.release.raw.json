@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 22678,
       "digest": "sha256:2924268fd1b179fd5d6f899ae5e7c8644817d37e347e159f391408ecca98e598",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-11T19:23:35Z",
       "updated_at": "2026-10-11T19:23:36Z",
       "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.5/markdansi-0.3.5.tgz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 62,
       "digest": "sha256:d970ac64c0801e0b1ed487ea4d690ccf094c1d041d979015ed28f56942b11e50",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-11T19:23:35Z",
       "updated_at": "2026-10-11T19:23:36Z",
       "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.5/markdansi-0.3.5.tgz.sha1"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 86,
       "digest": "sha256:a4404dd32e68f9cd187df7889f0d0178df3b9833ad6f2fa5098a6545952451d6",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-11T19:23:35Z",
       "updated_at": "2026-10-11T19:23:35Z",
       "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.5/markdansi-0.3.5.tgz.sha256"
