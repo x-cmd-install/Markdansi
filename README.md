@@ -37,7 +37,7 @@ Total: **4,607** lines of code across **27** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 65 · **Forks**: 13 · **Open issues**: 2 · **Contributors**: 4
+- **Stars**: 66 · **Forks**: 12 · **Open issues**: 2 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **4,607** lines of code across **27** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 2 | 11 | 0 | 1 | 0 | 11 |
-| last60d | 2026-08-22 | 3 | 15 | 0 | 1 | 0 | 15 |
-| 90d | 2026-07-23 | 4 | 19 | 0 | 1 | 0 | 19 |
-| last180d | 2026-04-24 | 7 | 26 | 0 | 1 | 0 | 41 |
-| 360d | 2025-10-26 | 17 | 27 | 0 | 2 | 0 | 158 |
-| last720d | 2024-10-31 | 17 | 27 | 0 | 2 | 0 | 159 |
+| 30d | 2026-09-22 | 2 | 11 | 0 | 1 | 0 | 11 |
+| last60d | 2026-08-23 | 3 | 15 | 0 | 1 | 0 | 15 |
+| 90d | 2026-07-24 | 4 | 19 | 0 | 1 | 0 | 19 |
+| last180d | 2026-04-25 | 7 | 26 | 0 | 1 | 0 | 41 |
+| 360d | 2025-10-27 | 17 | 27 | 0 | 2 | 0 | 158 |
+| last720d | 2024-11-01 | 17 | 27 | 0 | 2 | 0 | 159 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for Markdansi lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:02:21Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:02:22Z._
