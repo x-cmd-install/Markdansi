@@ -41,18 +41,18 @@ Total: **4,677** lines of code across **28** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 30 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 162
+- **Releases**: 18 · **Merged PRs**: 30 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 162
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 3 | 14 | 0 | 1 | 0 | 14 |
-| last60d | 2026-08-28 | 4 | 18 | 0 | 1 | 0 | 17 |
-| 90d | 2026-07-29 | 5 | 22 | 0 | 1 | 0 | 18 |
-| last180d | 2026-04-30 | 8 | 29 | 0 | 1 | 0 | 42 |
-| 360d | 2025-11-01 | 18 | 30 | 0 | 2 | 0 | 161 |
-| last720d | 2024-11-06 | 18 | 30 | 0 | 2 | 0 | 162 |
+| 30d | 2026-09-28 | 3 | 14 | 1 | 1 | 0 | 14 |
+| last60d | 2026-08-29 | 4 | 18 | 1 | 1 | 0 | 17 |
+| 90d | 2026-07-30 | 5 | 22 | 1 | 1 | 0 | 18 |
+| last180d | 2026-05-01 | 8 | 29 | 1 | 1 | 0 | 42 |
+| 360d | 2025-11-02 | 18 | 30 | 1 | 2 | 0 | 161 |
+| last720d | 2024-11-07 | 18 | 30 | 1 | 2 | 0 | 162 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for Markdansi lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:19:52Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:57:34Z._
