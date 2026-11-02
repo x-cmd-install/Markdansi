@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 340,
       "digest": "sha256:a78face261d14d2a7fd5aecc9bc47a5d13b2ded61316a6ac823def4494d98f5e",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-23T19:42:06Z",
       "updated_at": "2026-10-23T19:42:06Z",
       "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.7/SHA256SUMS"
