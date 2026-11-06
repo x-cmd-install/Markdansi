@@ -14,14 +14,14 @@ x install Markdansi
 
 ## 代码洞察
 
-合计: **4,677** 行代码（覆盖前 5 种语言、共 **28** 个文件）。
+合计: **4,710** 行代码（覆盖前 5 种语言、共 **28** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 3,096 | 91 | 251 | 17 |
+| TypeScript | 3,129 | 91 | 256 | 17 |
 | Yaml | 1,483 | 0 | 362 | 2 |
 | Json | 98 | 0 | 0 | 2 |
-| Markdown | 0 | 418 | 173 | 7 |
+| Markdown | 0 | 425 | 176 | 7 |
 
 ## 源代码
 
@@ -31,8 +31,8 @@ x install Markdansi
 
 ## 发布
 
-- **最新版本**: `v0.3.7` (2026-10-23)
-- **最近提交**: 2026-10-23
+- **最新版本**: `v0.3.8` (2026-11-05)
+- **最近提交**: 2026-11-05
 - **Release 含资产**: 5 个
 
 ## 流行度
@@ -41,28 +41,28 @@ x install Markdansi
 
 ## 累计统计
 
-- **发布数**: 18 · **已合并 PR**: 30 · **开放 PR**: 1 · **已关闭 issue**: 2 · **开放 issue**: 0 · **提交数**: 162
+- **发布数**: 19 · **已合并 PR**: 32 · **开放 PR**: 3 · **已关闭 issue**: 2 · **开放 issue**: 0 · **提交数**: 164
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 3 | 12 | 1 | 1 | 0 | 11 |
-| last60d | 2026-09-06 | 4 | 16 | 1 | 1 | 0 | 16 |
-| 90d | 2026-08-07 | 4 | 18 | 1 | 1 | 0 | 18 |
-| last180d | 2026-05-09 | 8 | 29 | 1 | 1 | 0 | 41 |
-| 360d | 2025-11-10 | 18 | 30 | 1 | 2 | 0 | 161 |
-| last720d | 2024-11-15 | 18 | 30 | 1 | 2 | 0 | 162 |
+| 30d | 2026-10-07 | 4 | 13 | 3 | 1 | 0 | 13 |
+| last60d | 2026-09-07 | 5 | 18 | 3 | 1 | 0 | 18 |
+| 90d | 2026-08-08 | 5 | 20 | 3 | 1 | 0 | 20 |
+| last180d | 2026-05-10 | 9 | 31 | 3 | 1 | 0 | 43 |
+| 360d | 2025-11-11 | 19 | 32 | 3 | 2 | 0 | 163 |
+| last720d | 2024-11-16 | 19 | 32 | 3 | 2 | 0 | 164 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [ASSET-INVENTORY.json](https://github.com/steipete/Markdansi/releases/download/v0.3.7/ASSET-INVENTORY.json) | 587 B | `other` |
-| [markdansi-0.3.7.tgz](https://github.com/steipete/Markdansi/releases/download/v0.3.7/markdansi-0.3.7.tgz) | 23.4 KiB | `native/unknown` |
-| [PACKAGE-PLAN.json](https://github.com/steipete/Markdansi/releases/download/v0.3.7/PACKAGE-PLAN.json) | 111 B | `other` |
-| [RELEASE-NOTES.md](https://github.com/steipete/Markdansi/releases/download/v0.3.7/RELEASE-NOTES.md) | 455 B | `other` |
-| [SHA256SUMS](https://github.com/steipete/Markdansi/releases/download/v0.3.7/SHA256SUMS) | 340 B | `other` |
+| [ASSET-INVENTORY.json](https://github.com/steipete/Markdansi/releases/download/v0.3.8/ASSET-INVENTORY.json) | 587 B | `other` |
+| [markdansi-0.3.8.tgz](https://github.com/steipete/Markdansi/releases/download/v0.3.8/markdansi-0.3.8.tgz) | 23.4 KiB | `native/unknown` |
+| [PACKAGE-PLAN.json](https://github.com/steipete/Markdansi/releases/download/v0.3.8/PACKAGE-PLAN.json) | 111 B | `other` |
+| [RELEASE-NOTES.md](https://github.com/steipete/Markdansi/releases/download/v0.3.8/RELEASE-NOTES.md) | 509 B | `other` |
+| [SHA256SUMS](https://github.com/steipete/Markdansi/releases/download/v0.3.8/SHA256SUMS) | 340 B | `other` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ Markdansi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T07:09:08Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T06:59:31Z._
