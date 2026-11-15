@@ -14,14 +14,14 @@ x install Markdansi
 
 ## Code insight
 
-Total: **4,710** lines of code across **28** files in the top 5 languages.
+Total: **4,718** lines of code across **28** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 3,129 | 91 | 256 | 17 |
-| Yaml | 1,483 | 0 | 362 | 2 |
+| TypeScript | 3,136 | 88 | 258 | 17 |
+| Yaml | 1,484 | 0 | 362 | 2 |
 | Json | 98 | 0 | 0 | 2 |
-| Markdown | 0 | 425 | 176 | 7 |
+| Markdown | 0 | 428 | 177 | 7 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **4,710** lines of code across **28** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.8` (2026-11-05)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-14
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 67 · **Forks**: 13 · **Open issues**: 2 · **Contributors**: 5
+- **Stars**: 68 · **Forks**: 13 · **Open issues**: 2 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 32 · **Open PRs**: 3 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 164
+- **Releases**: 19 · **Merged PRs**: 33 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 165
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 3 | 8 | 3 | 1 | 0 | 8 |
-| last60d | 2026-09-15 | 4 | 16 | 3 | 1 | 0 | 16 |
-| 90d | 2026-08-16 | 5 | 20 | 3 | 1 | 0 | 20 |
-| last180d | 2026-05-18 | 9 | 31 | 3 | 1 | 0 | 43 |
-| 360d | 2025-11-19 | 15 | 32 | 3 | 2 | 0 | 95 |
-| last720d | 2024-11-24 | 19 | 32 | 3 | 2 | 0 | 164 |
+| 30d | 2026-10-16 | 3 | 9 | 1 | 1 | 0 | 9 |
+| last60d | 2026-09-16 | 4 | 17 | 1 | 1 | 0 | 17 |
+| 90d | 2026-08-17 | 5 | 21 | 1 | 1 | 0 | 21 |
+| last180d | 2026-05-19 | 9 | 32 | 1 | 1 | 0 | 44 |
+| 360d | 2025-11-20 | 15 | 33 | 1 | 2 | 0 | 96 |
+| last720d | 2024-11-25 | 19 | 33 | 1 | 2 | 0 | 165 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for Markdansi lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:47:47Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:49:52Z._
