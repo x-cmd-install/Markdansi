@@ -21,7 +21,7 @@ Total: **4,718** lines of code across **28** files in the top 5 languages.
 | TypeScript | 3,136 | 88 | 258 | 17 |
 | Yaml | 1,484 | 0 | 362 | 2 |
 | Json | 98 | 0 | 0 | 2 |
-| Markdown | 0 | 428 | 177 | 7 |
+| Markdown | 0 | 431 | 179 | 7 |
 
 ## Source
 
@@ -31,8 +31,8 @@ Total: **4,718** lines of code across **28** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.3.8` (2026-11-05)
-- **Last commit**: 2026-11-14
+- **Latest**: `v0.3.9` (2026-11-16)
+- **Last commit**: 2026-11-16
 - **Assets in release**: 5
 
 ## Popularity
@@ -41,28 +41,28 @@ Total: **4,718** lines of code across **28** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 33 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 165
+- **Releases**: 20 · **Merged PRs**: 34 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 166
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 3 | 9 | 1 | 1 | 0 | 9 |
-| last60d | 2026-09-16 | 4 | 17 | 1 | 1 | 0 | 17 |
-| 90d | 2026-08-17 | 5 | 21 | 1 | 1 | 0 | 21 |
-| last180d | 2026-05-19 | 9 | 32 | 1 | 1 | 0 | 44 |
-| 360d | 2025-11-20 | 15 | 33 | 1 | 2 | 0 | 96 |
-| last720d | 2024-11-25 | 19 | 33 | 1 | 2 | 0 | 165 |
+| 30d | 2026-10-17 | 4 | 10 | 1 | 1 | 0 | 5 |
+| last60d | 2026-09-17 | 5 | 18 | 1 | 1 | 0 | 18 |
+| 90d | 2026-08-18 | 6 | 22 | 1 | 1 | 0 | 22 |
+| last180d | 2026-05-20 | 10 | 33 | 1 | 1 | 0 | 45 |
+| 360d | 2025-11-21 | 16 | 34 | 1 | 2 | 0 | 95 |
+| last720d | 2024-11-26 | 20 | 34 | 1 | 2 | 0 | 166 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ASSET-INVENTORY.json](https://github.com/steipete/Markdansi/releases/download/v0.3.8/ASSET-INVENTORY.json) | 587 B | `other` |
-| [markdansi-0.3.8.tgz](https://github.com/steipete/Markdansi/releases/download/v0.3.8/markdansi-0.3.8.tgz) | 23.4 KiB | `native/unknown` |
-| [PACKAGE-PLAN.json](https://github.com/steipete/Markdansi/releases/download/v0.3.8/PACKAGE-PLAN.json) | 111 B | `other` |
-| [RELEASE-NOTES.md](https://github.com/steipete/Markdansi/releases/download/v0.3.8/RELEASE-NOTES.md) | 509 B | `other` |
-| [SHA256SUMS](https://github.com/steipete/Markdansi/releases/download/v0.3.8/SHA256SUMS) | 340 B | `other` |
+| [ASSET-INVENTORY.json](https://github.com/steipete/Markdansi/releases/download/v0.3.9/ASSET-INVENTORY.json) | 587 B | `other` |
+| [markdansi-0.3.9.tgz](https://github.com/steipete/Markdansi/releases/download/v0.3.9/markdansi-0.3.9.tgz) | 23.4 KiB | `native/unknown` |
+| [PACKAGE-PLAN.json](https://github.com/steipete/Markdansi/releases/download/v0.3.9/PACKAGE-PLAN.json) | 111 B | `other` |
+| [RELEASE-NOTES.md](https://github.com/steipete/Markdansi/releases/download/v0.3.9/RELEASE-NOTES.md) | 575 B | `other` |
+| [SHA256SUMS](https://github.com/steipete/Markdansi/releases/download/v0.3.9/SHA256SUMS) | 340 B | `other` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Markdansi lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:49:52Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:07:06Z._
