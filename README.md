@@ -47,12 +47,12 @@ Total: **4,718** lines of code across **28** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 4 | 10 | 1 | 1 | 0 | 5 |
-| last60d | 2026-09-17 | 5 | 18 | 1 | 1 | 0 | 18 |
-| 90d | 2026-08-18 | 6 | 22 | 1 | 1 | 0 | 22 |
-| last180d | 2026-05-20 | 10 | 33 | 1 | 1 | 0 | 45 |
-| 360d | 2025-11-21 | 16 | 34 | 1 | 2 | 0 | 95 |
-| last720d | 2024-11-26 | 20 | 34 | 1 | 2 | 0 | 166 |
+| 30d | 2026-10-18 | 4 | 10 | 1 | 1 | 0 | 5 |
+| last60d | 2026-09-18 | 5 | 18 | 1 | 1 | 0 | 18 |
+| 90d | 2026-08-19 | 6 | 22 | 1 | 1 | 0 | 22 |
+| last180d | 2026-05-21 | 10 | 33 | 1 | 1 | 0 | 45 |
+| 360d | 2025-11-22 | 16 | 34 | 1 | 2 | 0 | 95 |
+| last720d | 2024-11-27 | 20 | 34 | 1 | 2 | 0 | 166 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for Markdansi lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:07:06Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:14:06Z._
