@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 587,
       "digest": "sha256:1bac4437c6ab70aaec75a4bc01a113181a07a1d0c5f77eec5f5b1df3761fdb14",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T06:56:04Z",
       "updated_at": "2026-11-16T06:56:04Z",
       "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.9/ASSET-INVENTORY.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 24001,
       "digest": "sha256:6501d54dbf7475db42c3c4c8cce0946ab2c1b3d38939ea578e6ff5eccdd16302",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T06:56:07Z",
       "updated_at": "2026-11-16T06:56:07Z",
       "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.9/markdansi-0.3.9.tgz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 111,
       "digest": "sha256:360e6de37a3c6e322cf8c44eced623e74f0083d5269143f5db41eb8e4fed475c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T06:56:05Z",
       "updated_at": "2026-11-16T06:56:05Z",
       "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.9/PACKAGE-PLAN.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 575,
       "digest": "sha256:8ac2c0a19ad118853afc4e76a5f3585c3036b54493f8c1f36d7d4f79fa151154",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T06:56:05Z",
       "updated_at": "2026-11-16T06:56:06Z",
       "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.9/RELEASE-NOTES.md"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 340,
       "digest": "sha256:54270f5974a7bde576cd07ba9970812578d1fb0b7313276abbcb30e63cb63b93",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T06:56:06Z",
       "updated_at": "2026-11-16T06:56:06Z",
       "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.9/SHA256SUMS"
