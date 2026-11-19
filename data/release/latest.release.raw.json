@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 575,
       "digest": "sha256:8ac2c0a19ad118853afc4e76a5f3585c3036b54493f8c1f36d7d4f79fa151154",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-16T06:56:05Z",
       "updated_at": "2026-11-16T06:56:06Z",
       "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.9/RELEASE-NOTES.md"
