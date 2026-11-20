@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 587,
       "digest": "sha256:1bac4437c6ab70aaec75a4bc01a113181a07a1d0c5f77eec5f5b1df3761fdb14",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-16T06:56:04Z",
       "updated_at": "2026-11-16T06:56:04Z",
       "browser_download_url": "https://github.com/steipete/Markdansi/releases/download/v0.3.9/ASSET-INVENTORY.json"
