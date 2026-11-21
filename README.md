@@ -14,14 +14,14 @@ x install Markdansi
 
 ## Code insight
 
-Total: **4,718** lines of code across **28** files in the top 5 languages.
+Total: **4,774** lines of code across **28** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 3,136 | 88 | 258 | 17 |
-| Yaml | 1,484 | 0 | 362 | 2 |
+| Yaml | 1,540 | 0 | 378 | 2 |
 | Json | 98 | 0 | 0 | 2 |
-| Markdown | 0 | 431 | 179 | 7 |
+| Markdown | 0 | 432 | 180 | 7 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **4,718** lines of code across **28** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.9` (2026-11-16)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-21
 - **Assets in release**: 5
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **4,718** lines of code across **28** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 34 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 166
+- **Releases**: 20 · **Merged PRs**: 35 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 167
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 4 | 7 | 1 | 0 | 0 | 5 |
-| last60d | 2026-09-21 | 5 | 18 | 1 | 1 | 0 | 18 |
-| 90d | 2026-08-22 | 6 | 22 | 1 | 1 | 0 | 22 |
-| last180d | 2026-05-24 | 10 | 33 | 1 | 1 | 0 | 45 |
-| 360d | 2025-11-25 | 16 | 34 | 1 | 2 | 0 | 95 |
-| last720d | 2024-11-30 | 20 | 34 | 1 | 2 | 0 | 166 |
+| 30d | 2026-10-22 | 3 | 7 | 1 | 0 | 0 | 6 |
+| last60d | 2026-09-22 | 5 | 19 | 1 | 1 | 0 | 19 |
+| 90d | 2026-08-23 | 6 | 23 | 1 | 1 | 0 | 23 |
+| last180d | 2026-05-25 | 10 | 34 | 1 | 1 | 0 | 46 |
+| 360d | 2025-11-26 | 16 | 35 | 1 | 2 | 0 | 96 |
+| last720d | 2024-12-01 | 20 | 35 | 1 | 2 | 0 | 167 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for Markdansi lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:14:48Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:35:57Z._
